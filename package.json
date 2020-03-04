@@ -1,0 +1,29 @@
+{
+  "name": "modsec-log-reviewer",
+  "version": "1.0.0",
+  "description": "A tool for TrustedKnight to parse and review ModSec logs.",
+  "main": "dist/app.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "dylhack",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^13.7.7",
+    "@types/yargs": "^13.0.2",
+    "typescript": "^3.6.3"
+  },
+  "dependencies": {
+    "modsec-log-parse": "git+ssh://git@github.com/dhghf/modsec-log-parse.git",
+    "yargs": "^14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrustedKnight/modsec-log-reviewer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TrustedKnight/modsec-log-reviewer/issues"
+  },
+  "homepage": "https://github.com/TrustedKnight/modsec-log-reviewer#readme"
+}

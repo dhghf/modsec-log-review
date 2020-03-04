@@ -1,0 +1,148 @@
+[1] 941100 - XSS Attack Detected via libinjection
+64.126.41.245's activity
+ - nslookup: 64-126-41-245.dyn.everestkc.net
+ - user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Top 10 most used data:
+ [17:17]: Matched Data: <!-- RcmdId Summary,RlogId t6n|ceb|qba?<kuvk~fgg~t`d*075133>)pqtfwpu)osu)fgg~-fij-16b38026c22-0x187 --><!-- SiteId: 0, Environment: production, AppName: myebayweb, PageId: 2060353 --> found within ARGS:_rlogId: <!-- RcmdId Summary,RlogId t6n|ceb|qba?<kuvk~fgg~t`d*075133>)pqtfwpu)osu)fgg~-fij-16b38026c22-0x187 --><!-- SiteId: 0, Environment: production, AppName: myebayweb, PageId: 2060353 -->
+ [17:17]: Matched Data: <!-- RcmdId Summary,RlogId t6n|ceb|qba?<kuvk~fgg~t`d*062>455)pqtfwpu)osu)fgg~-fij-16b380a1b39-0x28f --><!-- SiteId: 0, Environment: production, AppName: myebayweb, PageId: 2060353 --> found within ARGS:_rlogId: <!-- RcmdId Summary,RlogId t6n|ceb|qba?<kuvk~fgg~t`d*062>455)pqtfwpu)osu)fgg~-fij-16b380a1b39-0x28f --><!-- SiteId: 0, Environment: production, AppName: myebayweb, PageId: 2060353 -->
+ [17:18]: Matched Data: <!-- RcmdId Summary,RlogId t6n|ceb|qba?<kuvk~fgg~t`d*04131<7)pqtfwpu)osu)fgg~-fij-16b380a5c52-0x175 --><!-- SiteId: 0, Environment: production, AppName: myebayweb, PageId: 2060353 --> found within ARGS:_rlogId: <!-- RcmdId Summary,RlogId t6n|ceb|qba?<kuvk~fgg~t`d*04131<7)pqtfwpu)osu)fgg~-fij-16b380a5c52-0x175 --><!-- SiteId: 0, Environment: production, AppName: myebayweb, PageId: 2060353 -->
+ [17:18]: Matched Data: <!-- RcmdId Summary,RlogId t6n|ceb|qba?<kuvk~fgg~t`d*0416:74)pqtfwpu)osu)fgg~-fij-16b380abac8-0x181 --><!-- SiteId: 0, Environment: production, AppName: myebayweb, PageId: 2060353 --> found within ARGS:_rlogId: <!-- RcmdId Summary,RlogId t6n|ceb|qba?<kuvk~fgg~t`d*0416:74)pqtfwpu)osu)fgg~-fij-16b380abac8-0x181 --><!-- SiteId: 0, Environment: production, AppName: myebayweb, PageId: 2060353 -->
+ [17:21]: Matched Data: <!-- RcmdId Summary,RlogId t6n|ceb|qba?<umjk~fgg~t`d*;61610(twwgsvv(umj(bad\\x7f)`jk-16b380ae101-0x178 --><!-- SiteId: 0, Environment: production, AppName: myebayweb, PageId: 2060353 --> found within ARGS:_rlogId: <!-- RcmdId Summary,RlogId t6n|ceb|qba?<umjk~fgg~t`d*;61610(twwgsvv(umj(bad\\x7f)`jk-16b380ae101-0x178 --><!-- SiteId: 0, Environment: production, AppName: myebayweb, PageId: 2060353 -->
+ [17:27]: Matched Data: <!-- RcmdId Summary,RlogId t6n|ceb|qba?<umjk~fgg~t`d*2515716)pqtfwpu)qki)fgg~-fij-16b380d8961-0x184 --><!-- SiteId: 0, Environment: production, AppName: myebayweb, PageId: 2060353 --> found within ARGS:_rlogId: <!-- RcmdId Summary,RlogId t6n|ceb|qba?<umjk~fgg~t`d*2515716)pqtfwpu)qki)fgg~-fij-16b380d8961-0x184 --><!-- SiteId: 0, Environment: production, AppName: myebayweb, PageId: 2060353 -->
+ [17:27]: Matched Data: <!-- RcmdId Summary,RlogId t6n|ceb|qba?<tofk~fgg~t`d*1205260)pqtfwpu)pie)fgg~-fij-16b3812f630-0x184 --><!-- SiteId: 0, Environment: production, AppName: myebayweb, PageId: 2060353 --> found within ARGS:_rlogId: <!-- RcmdId Summary,RlogId t6n|ceb|qba?<tofk~fgg~t`d*1205260)pqtfwpu)pie)fgg~-fij-16b3812f630-0x184 --><!-- SiteId: 0, Environment: production, AppName: myebayweb, PageId: 2060353 -->
+ [17:28]: Matched Data: <!-- RcmdId Summary,RlogId t6n|ceb|qba?<kuvk~fgg~t`d*041652?)pqtfwpu)osu)fgg~-fij-16b381306db-0x189 --><!-- SiteId: 0, Environment: production, AppName: myebayweb, PageId: 2060353 --> found within ARGS:_rlogId: <!-- RcmdId Summary,RlogId t6n|ceb|qba?<kuvk~fgg~t`d*041652?)pqtfwpu)osu)fgg~-fij-16b381306db-0x189 --><!-- SiteId: 0, Environment: production, AppName: myebayweb, PageId: 2060353 -->
+ [17:28]: Matched Data: <!-- RcmdId Summary,RlogId t6n|ceb|qba?<tofk~fgg~t`d*126>547)pqtfwpu)pie)fgg~-fij-16b3813d89f-0x192 --><!-- SiteId: 0, Environment: production, AppName: myebayweb, PageId: 2060353 --> found within ARGS:_rlogId: <!-- RcmdId Summary,RlogId t6n|ceb|qba?<tofk~fgg~t`d*126>547)pqtfwpu)pie)fgg~-fij-16b3813d89f-0x192 --><!-- SiteId: 0, Environment: production, AppName: myebayweb, PageId: 2060353 -->
+ [17:35]: Matched Data: <!-- RcmdId Summary,RlogId t6n|ceb|qba?<kuvk~fgg~t`d*0663;21)pqtfwpu)osu)fgg~-fij-16b38183c94-0x163 --><!-- SiteId: 0, Environment: production, AppName: myebayweb, PageId: 2060353 --> found within ARGS:_rlogId: <!-- RcmdId Summary,RlogId t6n|ceb|qba?<kuvk~fgg~t`d*0663;21)pqtfwpu)osu)fgg~-fij-16b38183c94-0x163 --><!-- SiteId: 0, Environment: production, AppName: myebayweb, PageId: 2060353 -->
+
+Rejected requests:
+; [17:17] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*075133%3E%29pqtfwpu%29osu%29fgg%7E-fij-16b38026c22-0x187%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:17] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*062%3E455%29pqtfwpu%29osu%29fgg%7E-fij-16b380a1b39-0x28f%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:18] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*04131%3C7%29pqtfwpu%29osu%29fgg%7E-fij-16b380a5c52-0x175%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:18] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*0416%3A74%29pqtfwpu%29osu%29fgg%7E-fij-16b380abac8-0x181%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:21] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Cumjk%7Efgg%7Et%60d*%3B61610%28twwgsvv%28umj%28bad%7F%29%60jk-16b380ae101-0x178%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:27] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Cumjk%7Efgg%7Et%60d*2515716%29pqtfwpu%29qki%29fgg%7E-fij-16b380d8961-0x184%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:27] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ctofk%7Efgg%7Et%60d*1205260%29pqtfwpu%29pie%29fgg%7E-fij-16b3812f630-0x184%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:28] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*041652%3F%29pqtfwpu%29osu%29fgg%7E-fij-16b381306db-0x189%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:28] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ctofk%7Efgg%7Et%60d*126%3E547%29pqtfwpu%29pie%29fgg%7E-fij-16b3813d89f-0x192%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:28] [302/GET]: /ws/eBayISAPI.dll?SignIn&lgout=1
+ [17:32] [302/POST]: /signin/s
+ [17:35] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*0663%3B21%29pqtfwpu%29osu%29fgg%7E-fij-16b38183c94-0x163%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:35] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*0413%3A31%29pqtfwpu%29osu%29fgg%7E-fij-16b381a738c-0x181%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:35] [302/GET]: /ws/eBayISAPI.dll?SignIn&lgout=1
+ [17:35] [500/POST]: /signin/s
+ [17:37] [302/POST]: /signin/s
+ [17:37] [302/GET]: /ws/eBayISAPI.dll?SignIn&lgout=1
+ [17:37] [302/POST]: /signin/s
+ [17:45] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Cumjk%7Efgg%7Et%60d*%3B6161%3D%28twwgsvv%28umj%28bad%7F%29%60jk-16b381cc58d-0x18a%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+
+[1] 941180 - Node-Validator Blacklist Keywords
+64.126.41.245's activity
+ - nslookup: 64-126-41-245.dyn.everestkc.net
+ - user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Top 10 most used data:
+ [17:17]: Matched Data: <!-- found within ARGS:_rlogId: <!-- rcmdid summary,rlogid t6n|ceb|qba?<kuvk~fgg~t`d*075133>)pqtfwpu)osu)fgg~-fij-16b38026c22-0x187 --><!-- siteid: 0, environment: production, appname: myebayweb, pageid: 2060353 -->
+ [17:17]: Matched Data: <!-- found within ARGS:_rlogId: <!-- rcmdid summary,rlogid t6n|ceb|qba?<kuvk~fgg~t`d*062>455)pqtfwpu)osu)fgg~-fij-16b380a1b39-0x28f --><!-- siteid: 0, environment: production, appname: myebayweb, pageid: 2060353 -->
+ [17:18]: Matched Data: <!-- found within ARGS:_rlogId: <!-- rcmdid summary,rlogid t6n|ceb|qba?<kuvk~fgg~t`d*04131<7)pqtfwpu)osu)fgg~-fij-16b380a5c52-0x175 --><!-- siteid: 0, environment: production, appname: myebayweb, pageid: 2060353 -->
+ [17:18]: Matched Data: <!-- found within ARGS:_rlogId: <!-- rcmdid summary,rlogid t6n|ceb|qba?<kuvk~fgg~t`d*0416:74)pqtfwpu)osu)fgg~-fij-16b380abac8-0x181 --><!-- siteid: 0, environment: production, appname: myebayweb, pageid: 2060353 -->
+ [17:21]: Matched Data: <!-- found within ARGS:_rlogId: <!-- rcmdid summary,rlogid t6n|ceb|qba?<umjk~fgg~t`d*;61610(twwgsvv(umj(bad\\x7f)`jk-16b380ae101-0x178 --><!-- siteid: 0, environment: production, appname: myebayweb, pageid: 2060353 -->
+ [17:27]: Matched Data: <!-- found within ARGS:_rlogId: <!-- rcmdid summary,rlogid t6n|ceb|qba?<umjk~fgg~t`d*2515716)pqtfwpu)qki)fgg~-fij-16b380d8961-0x184 --><!-- siteid: 0, environment: production, appname: myebayweb, pageid: 2060353 -->
+ [17:27]: Matched Data: <!-- found within ARGS:_rlogId: <!-- rcmdid summary,rlogid t6n|ceb|qba?<tofk~fgg~t`d*1205260)pqtfwpu)pie)fgg~-fij-16b3812f630-0x184 --><!-- siteid: 0, environment: production, appname: myebayweb, pageid: 2060353 -->
+ [17:28]: Matched Data: <!-- found within ARGS:_rlogId: <!-- rcmdid summary,rlogid t6n|ceb|qba?<kuvk~fgg~t`d*041652?)pqtfwpu)osu)fgg~-fij-16b381306db-0x189 --><!-- siteid: 0, environment: production, appname: myebayweb, pageid: 2060353 -->
+ [17:28]: Matched Data: <!-- found within ARGS:_rlogId: <!-- rcmdid summary,rlogid t6n|ceb|qba?<tofk~fgg~t`d*126>547)pqtfwpu)pie)fgg~-fij-16b3813d89f-0x192 --><!-- siteid: 0, environment: production, appname: myebayweb, pageid: 2060353 -->
+ [17:35]: Matched Data: <!-- found within ARGS:_rlogId: <!-- rcmdid summary,rlogid t6n|ceb|qba?<kuvk~fgg~t`d*0663;21)pqtfwpu)osu)fgg~-fij-16b38183c94-0x163 --><!-- siteid: 0, environment: production, appname: myebayweb, pageid: 2060353 -->
+
+Rejected requests:
+; [17:17] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*075133%3E%29pqtfwpu%29osu%29fgg%7E-fij-16b38026c22-0x187%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:17] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*062%3E455%29pqtfwpu%29osu%29fgg%7E-fij-16b380a1b39-0x28f%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:18] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*04131%3C7%29pqtfwpu%29osu%29fgg%7E-fij-16b380a5c52-0x175%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:18] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*0416%3A74%29pqtfwpu%29osu%29fgg%7E-fij-16b380abac8-0x181%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:21] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Cumjk%7Efgg%7Et%60d*%3B61610%28twwgsvv%28umj%28bad%7F%29%60jk-16b380ae101-0x178%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:27] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Cumjk%7Efgg%7Et%60d*2515716%29pqtfwpu%29qki%29fgg%7E-fij-16b380d8961-0x184%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:27] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ctofk%7Efgg%7Et%60d*1205260%29pqtfwpu%29pie%29fgg%7E-fij-16b3812f630-0x184%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:28] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*041652%3F%29pqtfwpu%29osu%29fgg%7E-fij-16b381306db-0x189%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:28] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ctofk%7Efgg%7Et%60d*126%3E547%29pqtfwpu%29pie%29fgg%7E-fij-16b3813d89f-0x192%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:28] [302/GET]: /ws/eBayISAPI.dll?SignIn&lgout=1
+ [17:32] [302/POST]: /signin/s
+ [17:35] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*0663%3B21%29pqtfwpu%29osu%29fgg%7E-fij-16b38183c94-0x163%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:35] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*0413%3A31%29pqtfwpu%29osu%29fgg%7E-fij-16b381a738c-0x181%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:35] [302/GET]: /ws/eBayISAPI.dll?SignIn&lgout=1
+ [17:35] [500/POST]: /signin/s
+ [17:37] [302/POST]: /signin/s
+ [17:37] [302/GET]: /ws/eBayISAPI.dll?SignIn&lgout=1
+ [17:37] [302/POST]: /signin/s
+ [17:45] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Cumjk%7Efgg%7Et%60d*%3B6161%3D%28twwgsvv%28umj%28bad%7F%29%60jk-16b381cc58d-0x18a%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+
+[1] 949110 - Inbound Anomaly Score Exceeded (Total Score: 10)
+64.126.41.245's activity
+ - nslookup: 64-126-41-245.dyn.everestkc.net
+ - user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Top 10 most used data:
+ [17:17]: 
+ [17:17]: 
+ [17:18]: 
+ [17:18]: 
+ [17:21]: 
+ [17:27]: 
+ [17:27]: 
+ [17:28]: 
+ [17:28]: 
+ [17:35]: 
+
+Rejected requests:
+; [17:17] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*075133%3E%29pqtfwpu%29osu%29fgg%7E-fij-16b38026c22-0x187%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:17] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*062%3E455%29pqtfwpu%29osu%29fgg%7E-fij-16b380a1b39-0x28f%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:18] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*04131%3C7%29pqtfwpu%29osu%29fgg%7E-fij-16b380a5c52-0x175%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:18] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*0416%3A74%29pqtfwpu%29osu%29fgg%7E-fij-16b380abac8-0x181%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:21] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Cumjk%7Efgg%7Et%60d*%3B61610%28twwgsvv%28umj%28bad%7F%29%60jk-16b380ae101-0x178%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:27] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Cumjk%7Efgg%7Et%60d*2515716%29pqtfwpu%29qki%29fgg%7E-fij-16b380d8961-0x184%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:27] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ctofk%7Efgg%7Et%60d*1205260%29pqtfwpu%29pie%29fgg%7E-fij-16b3812f630-0x184%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:28] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*041652%3F%29pqtfwpu%29osu%29fgg%7E-fij-16b381306db-0x189%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:28] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ctofk%7Efgg%7Et%60d*126%3E547%29pqtfwpu%29pie%29fgg%7E-fij-16b3813d89f-0x192%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:28] [302/GET]: /ws/eBayISAPI.dll?SignIn&lgout=1
+ [17:32] [302/POST]: /signin/s
+ [17:35] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*0663%3B21%29pqtfwpu%29osu%29fgg%7E-fij-16b38183c94-0x163%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:35] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*0413%3A31%29pqtfwpu%29osu%29fgg%7E-fij-16b381a738c-0x181%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:35] [302/GET]: /ws/eBayISAPI.dll?SignIn&lgout=1
+ [17:35] [500/POST]: /signin/s
+ [17:37] [302/POST]: /signin/s
+ [17:37] [302/GET]: /ws/eBayISAPI.dll?SignIn&lgout=1
+ [17:37] [302/POST]: /signin/s
+ [17:45] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Cumjk%7Efgg%7Et%60d*%3B6161%3D%28twwgsvv%28umj%28bad%7F%29%60jk-16b381cc58d-0x18a%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+
+[1] 980130 - Inbound Anomaly Score Exceeded (Total Inbound Score: 10 - SQLI=0,XSS=10,RFI=0,LFI=0,RCE=0,PHPI=0,HTTP=0,SESS=0): Node-Validator Blacklist Keywords
+64.126.41.245's activity
+ - nslookup: 64-126-41-245.dyn.everestkc.net
+ - user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Top 10 most used data:
+ [17:17]: 
+ [17:17]: 
+ [17:18]: 
+ [17:18]: 
+ [17:21]: 
+ [17:27]: 
+ [17:27]: 
+ [17:28]: 
+ [17:28]: 
+ [17:35]: 
+
+Rejected requests:
+; [17:17] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*075133%3E%29pqtfwpu%29osu%29fgg%7E-fij-16b38026c22-0x187%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:17] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*062%3E455%29pqtfwpu%29osu%29fgg%7E-fij-16b380a1b39-0x28f%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:18] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*04131%3C7%29pqtfwpu%29osu%29fgg%7E-fij-16b380a5c52-0x175%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:18] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*0416%3A74%29pqtfwpu%29osu%29fgg%7E-fij-16b380abac8-0x181%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:21] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Cumjk%7Efgg%7Et%60d*%3B61610%28twwgsvv%28umj%28bad%7F%29%60jk-16b380ae101-0x178%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:27] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Cumjk%7Efgg%7Et%60d*2515716%29pqtfwpu%29qki%29fgg%7E-fij-16b380d8961-0x184%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:27] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ctofk%7Efgg%7Et%60d*1205260%29pqtfwpu%29pie%29fgg%7E-fij-16b3812f630-0x184%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:28] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*041652%3F%29pqtfwpu%29osu%29fgg%7E-fij-16b381306db-0x189%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:28] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ctofk%7Efgg%7Et%60d*126%3E547%29pqtfwpu%29pie%29fgg%7E-fij-16b3813d89f-0x192%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:28] [302/GET]: /ws/eBayISAPI.dll?SignIn&lgout=1
+ [17:32] [302/POST]: /signin/s
+ [17:35] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*0663%3B21%29pqtfwpu%29osu%29fgg%7E-fij-16b38183c94-0x163%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:35] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Ckuvk%7Efgg%7Et%60d*0413%3A31%29pqtfwpu%29osu%29fgg%7E-fij-16b381a738c-0x181%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+ [17:35] [302/GET]: /ws/eBayISAPI.dll?SignIn&lgout=1
+ [17:35] [500/POST]: /signin/s
+ [17:37] [302/POST]: /signin/s
+ [17:37] [302/GET]: /ws/eBayISAPI.dll?SignIn&lgout=1
+ [17:37] [302/POST]: /signin/s
+ [17:45] [301/GET]: /myb/jsErrorTrack?_rlogId=%3C!--%20RcmdId%20Summary,RlogId%20t6n%7Cceb%7Cqba%3F%3Cumjk%7Efgg%7Et%60d*%3B6161%3D%28twwgsvv%28umj%28bad%7F%29%60jk-16b381cc58d-0x18a%20--%3E%3C!--%20SiteId:%200,%20Environment:%20production,%20AppName:%20myebayweb,%20PageId:%202060353%20--%3E&_jsErrMsg={%22msg%22:%22Template%20not%20found%20with%20name%20\\%22undefined\\%22%22,%22mod%22:%22m2749ajax%22}
+
